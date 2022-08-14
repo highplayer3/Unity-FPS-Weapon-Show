@@ -1,4 +1,4 @@
-# Unity-FPS-Weapon-Show
+# Unity-FPS-Weapon-Show -version:2018.4.36
 This is a project that shows many weapons in FPS .you can equip you with every gun or grenade
 Project Tutorials:
 - You can get close to the gun and place the camera on the gun you want to pick up,Then,click the 'F',you will equip the gun.
