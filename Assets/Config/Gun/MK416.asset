@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a164b016d002e95478cc420c96e13985, type: 3}
+  m_Name: MK416
+  m_EditorClassIdentifier: 
+  Type: 0
+  ItemEqquipmentPrefab: {fileID: 6074073877074542060, guid: 678de9528abc15748868d1bdc02292d6,
+    type: 3}
+  ItemName: MK416
+  ItemID: 1001
+  ItemImage: {fileID: 21300002, guid: dccc05b8d01dde54f88f9910329187c2, type: 3}
+  SubType: 0
+  CartridgeClip: 35
+  EffectiveRange: 300
+  FireAway: 1
+  RateOfFire: 10
+  BulletDamage: 350
+  Recoil: 4
+  BulletPrefab: {fileID: 7527740057585814645, guid: 5f44e81ba3bcb274b823387e06bbec6a,
+    type: 3}
+  CasingPrefab: {fileID: 8977583226583967984, guid: 0a03c92daf1236948954dda8cbc3c32e,
+    type: 3}
+  FOVForAim: 40
+  FOVForNormal: 60
+  FireSound: {fileID: 8300000, guid: 38b450e2adcb6f542acc8c1d423bd8dc, type: 3}
+  NoBulletSound: {fileID: 8300000, guid: f9ce3352943c16244a2e1504722c93c6, type: 3}
+  AimSound: {fileID: 8300000, guid: acaebc89b98b82142bd2b24edb6081e4, type: 3}
+  ReloadSoundLeft: {fileID: 8300000, guid: 377d359bccbade04d8928f95a0426a76, type: 3}
+  ReloadSoundOut: {fileID: 8300000, guid: 59af78333683ceb4aacc3cb5a676eab9, type: 3}
+  ReloadSoundIn: {fileID: 0}
+  DrawSound: {fileID: 8300000, guid: 2ae41e984ff1f3e4a840a1a46b6a8816, type: 3}

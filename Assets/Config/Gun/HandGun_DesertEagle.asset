@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a164b016d002e95478cc420c96e13985, type: 3}
+  m_Name: HandGun_DesertEagle
+  m_EditorClassIdentifier: 
+  Type: 0
+  ItemEqquipmentPrefab: {fileID: 6541318771173345775, guid: 695ea189ff1d28847b11654ce019b534,
+    type: 3}
+  ItemName: HandGun_DesertEagle
+  ItemID: 2001
+  ItemImage: {fileID: 21300012, guid: dccc05b8d01dde54f88f9910329187c2, type: 3}
+  SubType: 1
+  CartridgeClip: 5
+  EffectiveRange: 100
+  FireAway: 0
+  RateOfFire: 5
+  BulletDamage: 550
+  Recoil: 8
+  BulletPrefab: {fileID: 7527740057585814645, guid: 5f44e81ba3bcb274b823387e06bbec6a,
+    type: 3}
+  CasingPrefab: {fileID: 4806716204248025207, guid: a47d4a3dd6f483143a2d3cf9c8e13c17,
+    type: 3}
+  FOVForAim: 40
+  FOVForNormal: 60
+  FireSound: {fileID: 8300000, guid: 38b450e2adcb6f542acc8c1d423bd8dc, type: 3}
+  NoBulletSound: {fileID: 8300000, guid: f9ce3352943c16244a2e1504722c93c6, type: 3}
+  AimSound: {fileID: 8300000, guid: acaebc89b98b82142bd2b24edb6081e4, type: 3}
+  ReloadSoundLeft: {fileID: 8300000, guid: b0d51244fd32fc647960320540b32f66, type: 3}
+  ReloadSoundOut: {fileID: 8300000, guid: fee3a21f251a4914cabce25b13e7d2a8, type: 3}
+  ReloadSoundIn: {fileID: 0}
+  DrawSound: {fileID: 8300000, guid: 2ae41e984ff1f3e4a840a1a46b6a8816, type: 3}
